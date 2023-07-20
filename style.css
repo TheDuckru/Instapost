@@ -1,0 +1,51 @@
+body {
+    font-family: 'PT Serif', serif;
+    background-color: rgb(255, 255, 255);
+
+}
+h1 {
+    font-family: 'VT323', monospace;
+    color: rgb(10, 10, 10);
+    font-size: 200%;
+    text-align:center;
+    padding: 1px;
+
+}
+
+.bottom {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #18171742;
+    padding: 10px;
+}
+
+.logleft{
+   justify-content: flex-start;
+ 
+}
+
+.logrigh{
+    justify-content:end ;
+
+}
+
+img{
+    max-width: 100%;
+    margin-top: 10px;
+    margi
+}
+
+.texto p {
+    color: rgb(0, 0, 0);
+
+}
+
+p strong{
+    color:rgba(15, 13, 13, 0.571);
+    text-decoration: underline;
+}
+
+.likes {
+    font-size: 70%;
+}
